@@ -6,7 +6,7 @@
 [x] - Importa fonts - Roboto e Digital
 [x] - Alterar titulo app
 [x] - Alterar ícone
-[] - Configurar styled-components
+[x] - Configurar styled-components
 [] - Criar Fuel Component
 [] - Configurar Axios
 [] - Conectar componente na API

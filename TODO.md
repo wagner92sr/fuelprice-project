@@ -1,7 +1,7 @@
 #FuelPrice
 
 [x] - Criar projeto e preparar json server
-[] - Criar pastas e estrutura do projeto
+[x] - Criar pastas e estrutura do projeto
 [] - Criar os componentes
 [] - Importa fonts - Roboto e Digital
 [] - Configurar styled-components

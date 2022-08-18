@@ -1,4 +1,13 @@
-import { Box, Container, Panel, Row, SettingsIcon, Title } from "./styles";
+import {
+  Box,
+  Container,
+  FuelPrice,
+  FuelText,
+  Panel,
+  Row,
+  SettingsIcon,
+  Title,
+} from "./styles";
 
 export const FuelComponent = () => {
   return (
@@ -8,8 +17,12 @@ export const FuelComponent = () => {
 
       <Panel>
         <Row>
-          <Box>Teste 1</Box>
-          <Box>Teste 2</Box>
+          <Box>
+            <FuelText>Gasolina Comum</FuelText>
+          </Box>
+          <Box>
+            <FuelPrice>4.89</FuelPrice>
+          </Box>
         </Row>
       </Panel>
     </Container>

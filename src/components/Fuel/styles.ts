@@ -65,3 +65,17 @@ export const Row = styled.div`
   justify-content: space-around;
   padding-top: 15px;
 `;
+
+export const FuelText = styled.span`
+  color: ${(props) => props.theme.colorWhite};
+  font-size: 1.5rem;
+  font-weight: bold;
+`;
+
+export const FuelPrice = styled.span`
+  font-family: "Digital-7 Mono", sans-serif;
+
+  color: ${(props) => props.theme.colorYellow600};
+  font-size: 3.5rem;
+  text-align: left;
+`;

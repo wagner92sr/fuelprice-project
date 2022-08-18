@@ -1,9 +1,10 @@
-import { Title } from "./styles";
+import { Container, SettingsIcon, Title } from "./styles";
 
 export const FuelComponent = () => {
   return (
-    <div>
+    <Container>
       <Title>Posto ReactJS</Title>
-    </div>
+      <SettingsIcon />
+    </Container>
   );
 };

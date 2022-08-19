@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Gasolina Comum",
-      "price": 5.45
+      "price": 4.45
     },
     {
       "id": 2,
       "name": "GNV",
-      "price": 5.84
+      "price": 3.84
     },
     {
       "id": 3,
       "name": "Diesel",
-      "price": 5.9
+      "price": 4.9
     }
   ]
 }

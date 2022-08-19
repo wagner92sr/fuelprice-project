@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Gasolina Comum",
-      "price": 6.45
+      "price": 5.45
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
     {
       "id": 3,
       "name": "Diesel",
-      "price": 7.2
+      "price": 5.9
     }
   ]
 }

@@ -4,6 +4,11 @@ export interface IFuel {
   price: number;
 }
 
+//possui todas as propriedades de IFuel + updated
+export type IFuelState = IFuel & {
+  updated: boolean;
+};
+
 export type FuelComponentProps = {
   editMode: boolean;
   toggleEditMode: () => void;
